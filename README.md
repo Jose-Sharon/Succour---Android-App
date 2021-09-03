@@ -1,4 +1,4 @@
-# succour
+# Succour
 
 A new Flutter application.
 
